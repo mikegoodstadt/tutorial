@@ -1,0 +1,8 @@
+{
+	"uuid" : "20000000-0000-0000-0000-000000000001",
+	"ref" : "default",
+	"title" : "Project 1",
+	"description" : "An example project.",
+	"group" : "Default Group",
+	"state" : true,
+}
